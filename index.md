@@ -1,6 +1,6 @@
 #  Patrik Sarin Web-tehtävä
 
-## Tehtävät eroteltu selkeillä väleillä
+## Tehtävät eroteltu numeroin 1-22 
 
 1 
 Writing in Markdown is _not_ that hard!
@@ -124,6 +124,6 @@ To doubt they were kneeling then.
 2. Pour a gallon of milk into the bowl.  
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
 
-
-
+# Patrik Sarin ATIS24K
+Isot kiitokset Terolle hyvin vedetystä kurssista.
 
